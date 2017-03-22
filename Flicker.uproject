@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2ACA8E46-448E-7BAC-93E4-989FB075AFFA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Flicker",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
